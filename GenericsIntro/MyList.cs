@@ -22,6 +22,7 @@ namespace GenericsIntro
             }
 
             items[items.Length - 1] = item;
+
         }
     }
 }
